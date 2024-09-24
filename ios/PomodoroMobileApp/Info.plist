@@ -26,14 +26,13 @@
 	<true/>
 	<key>NSAppTransportSecurity</key>
 	<dict>
-	  <!-- Do not change NSAllowsArbitraryLoads to true, or you will risk app rejection! -->
 		<key>NSAllowsArbitraryLoads</key>
 		<false/>
 		<key>NSAllowsLocalNetworking</key>
 		<true/>
 	</dict>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string></string>
+	<string/>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIRequiredDeviceCapabilities</key>
@@ -48,5 +47,28 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>NeverMindCompact-Bold.ttf</string>
+		<string>NeverMindCompact-BoldItalic.ttf</string>
+		<string>NeverMindCompact-Book.ttf</string>
+		<string>NeverMindCompact-BookItalic.ttf</string>
+		<string>NeverMindCompact-DemiBold.ttf</string>
+		<string>NeverMindCompact-DemiBoldItalic.ttf</string>
+		<string>NeverMindCompact-Extrabold.ttf</string>
+		<string>NeverMindCompact-ExtraboldItalic.ttf</string>
+		<string>NeverMindCompact-ExtraLight.ttf</string>
+		<string>NeverMindCompact-ExtraLightItalic.ttf</string>
+		<string>NeverMindCompact-Heavy.ttf</string>
+		<string>NeverMindCompact-HeavyItalic.ttf</string>
+		<string>NeverMindCompact-Light.ttf</string>
+		<string>NeverMindCompact-LightItalic.ttf</string>
+		<string>NeverMindCompact-Medium.ttf</string>
+		<string>NeverMindCompact-MediumItalic.ttf</string>
+		<string>NeverMindCompact-Regular.ttf</string>
+		<string>NeverMindCompact-RegularItalic.ttf</string>
+		<string>NeverMindCompact-Thin.ttf</string>
+		<string>NeverMindCompact-ThinItalic.ttf</string>
+	</array>
 </dict>
 </plist>

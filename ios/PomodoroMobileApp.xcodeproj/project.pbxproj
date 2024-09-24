@@ -14,6 +14,26 @@
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		7699B88040F8A987B510C191 /* libPods-PomodoroMobileApp-PomodoroMobileAppTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-PomodoroMobileApp-PomodoroMobileAppTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		02E9562A3A2A4AB8898A54F7 /* NeverMindCompact-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 28B49610D7EC42B797E0C89E /* NeverMindCompact-Bold.ttf */; };
+		77667CB7BA194344B378F2E0 /* NeverMindCompact-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3B8C493D476143CDAE9D737D /* NeverMindCompact-BoldItalic.ttf */; };
+		0B58BB5C3DE04428987C51B3 /* NeverMindCompact-Book.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5138CBCEAA584174B19DD62E /* NeverMindCompact-Book.ttf */; };
+		458DB8938768473697BE43E3 /* NeverMindCompact-BookItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 26D112EFD9E243EB9CF7A2DF /* NeverMindCompact-BookItalic.ttf */; };
+		5DDAF0E8538446D1B17FEB4B /* NeverMindCompact-DemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 94D330CAB43545FE9AA8E83D /* NeverMindCompact-DemiBold.ttf */; };
+		FAE3073EF1B7476D8C7D0584 /* NeverMindCompact-DemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 34A75C0B7CE74D4F92F752F6 /* NeverMindCompact-DemiBoldItalic.ttf */; };
+		4C32C474F24344F4BB5B6F5A /* NeverMindCompact-Extrabold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E0B8E01ADED1489E91B9753D /* NeverMindCompact-Extrabold.ttf */; };
+		9A3AA230400B4B2D9F9B1196 /* NeverMindCompact-ExtraboldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 597722F193CB426C8C8E5535 /* NeverMindCompact-ExtraboldItalic.ttf */; };
+		F8DCA2742AAB43D8A2DA6C06 /* NeverMindCompact-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8E54C89C652D4916849F0B1A /* NeverMindCompact-ExtraLight.ttf */; };
+		FA8F8B88B259415CB682FDC9 /* NeverMindCompact-ExtraLightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 64293D5D004942B6BE11269D /* NeverMindCompact-ExtraLightItalic.ttf */; };
+		AE929F0FEE444FCAA0F4C2BD /* NeverMindCompact-Heavy.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A868498FDE29466F92759935 /* NeverMindCompact-Heavy.ttf */; };
+		3CB153B9E5DC4062B2BC43FA /* NeverMindCompact-HeavyItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FD4E5D55F91849B996AEF906 /* NeverMindCompact-HeavyItalic.ttf */; };
+		F58C44CA26E04AAE89425774 /* NeverMindCompact-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6B1592BB971040F087FD5D6A /* NeverMindCompact-Light.ttf */; };
+		E9B016A63A8D4824982796E2 /* NeverMindCompact-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 40CB38AF9EEE4BBD9B5C75D4 /* NeverMindCompact-LightItalic.ttf */; };
+		80F1410F42044683B3E8B7A4 /* NeverMindCompact-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 779A57583F7240B1866D5EB4 /* NeverMindCompact-Medium.ttf */; };
+		1A409B47ACBD4B19BB1106F3 /* NeverMindCompact-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5A69B2A9B49A4F5BA0E2E6F4 /* NeverMindCompact-MediumItalic.ttf */; };
+		13C0D1CED6F040D59977BFCC /* NeverMindCompact-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6A91594870C24185819457EA /* NeverMindCompact-Regular.ttf */; };
+		7A2A2923A0214B6D9DF36EF5 /* NeverMindCompact-RegularItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 70B937B5518B4355B7EC8620 /* NeverMindCompact-RegularItalic.ttf */; };
+		48B2DA0E76C042DF95A176DB /* NeverMindCompact-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FF4453AD53C4415ABDB274AB /* NeverMindCompact-Thin.ttf */; };
+		E3E34C2703EB41C3BE0079B1 /* NeverMindCompact-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4848ECEA174D58B222FC70 /* NeverMindCompact-ThinItalic.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +65,26 @@
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = PomodoroMobileApp/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-PomodoroMobileApp-PomodoroMobileAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PomodoroMobileApp-PomodoroMobileAppTests.release.xcconfig"; path = "Target Support Files/Pods-PomodoroMobileApp-PomodoroMobileAppTests/Pods-PomodoroMobileApp-PomodoroMobileAppTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		28B49610D7EC42B797E0C89E /* NeverMindCompact-Bold.ttf */ = {isa = PBXFileReference; name = "NeverMindCompact-Bold.ttf"; path = "../src/assets/fonts/NeverMindCompact-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3B8C493D476143CDAE9D737D /* NeverMindCompact-BoldItalic.ttf */ = {isa = PBXFileReference; name = "NeverMindCompact-BoldItalic.ttf"; path = "../src/assets/fonts/NeverMindCompact-BoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		5138CBCEAA584174B19DD62E /* NeverMindCompact-Book.ttf */ = {isa = PBXFileReference; name = "NeverMindCompact-Book.ttf"; path = "../src/assets/fonts/NeverMindCompact-Book.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		26D112EFD9E243EB9CF7A2DF /* NeverMindCompact-BookItalic.ttf */ = {isa = PBXFileReference; name = "NeverMindCompact-BookItalic.ttf"; path = "../src/assets/fonts/NeverMindCompact-BookItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		94D330CAB43545FE9AA8E83D /* NeverMindCompact-DemiBold.ttf */ = {isa = PBXFileReference; name = "NeverMindCompact-DemiBold.ttf"; path = "../src/assets/fonts/NeverMindCompact-DemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		34A75C0B7CE74D4F92F752F6 /* NeverMindCompact-DemiBoldItalic.ttf */ = {isa = PBXFileReference; name = "NeverMindCompact-DemiBoldItalic.ttf"; path = "../src/assets/fonts/NeverMindCompact-DemiBoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E0B8E01ADED1489E91B9753D /* NeverMindCompact-Extrabold.ttf */ = {isa = PBXFileReference; name = "NeverMindCompact-Extrabold.ttf"; path = "../src/assets/fonts/NeverMindCompact-Extrabold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		597722F193CB426C8C8E5535 /* NeverMindCompact-ExtraboldItalic.ttf */ = {isa = PBXFileReference; name = "NeverMindCompact-ExtraboldItalic.ttf"; path = "../src/assets/fonts/NeverMindCompact-ExtraboldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		8E54C89C652D4916849F0B1A /* NeverMindCompact-ExtraLight.ttf */ = {isa = PBXFileReference; name = "NeverMindCompact-ExtraLight.ttf"; path = "../src/assets/fonts/NeverMindCompact-ExtraLight.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		64293D5D004942B6BE11269D /* NeverMindCompact-ExtraLightItalic.ttf */ = {isa = PBXFileReference; name = "NeverMindCompact-ExtraLightItalic.ttf"; path = "../src/assets/fonts/NeverMindCompact-ExtraLightItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A868498FDE29466F92759935 /* NeverMindCompact-Heavy.ttf */ = {isa = PBXFileReference; name = "NeverMindCompact-Heavy.ttf"; path = "../src/assets/fonts/NeverMindCompact-Heavy.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		FD4E5D55F91849B996AEF906 /* NeverMindCompact-HeavyItalic.ttf */ = {isa = PBXFileReference; name = "NeverMindCompact-HeavyItalic.ttf"; path = "../src/assets/fonts/NeverMindCompact-HeavyItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6B1592BB971040F087FD5D6A /* NeverMindCompact-Light.ttf */ = {isa = PBXFileReference; name = "NeverMindCompact-Light.ttf"; path = "../src/assets/fonts/NeverMindCompact-Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		40CB38AF9EEE4BBD9B5C75D4 /* NeverMindCompact-LightItalic.ttf */ = {isa = PBXFileReference; name = "NeverMindCompact-LightItalic.ttf"; path = "../src/assets/fonts/NeverMindCompact-LightItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		779A57583F7240B1866D5EB4 /* NeverMindCompact-Medium.ttf */ = {isa = PBXFileReference; name = "NeverMindCompact-Medium.ttf"; path = "../src/assets/fonts/NeverMindCompact-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		5A69B2A9B49A4F5BA0E2E6F4 /* NeverMindCompact-MediumItalic.ttf */ = {isa = PBXFileReference; name = "NeverMindCompact-MediumItalic.ttf"; path = "../src/assets/fonts/NeverMindCompact-MediumItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6A91594870C24185819457EA /* NeverMindCompact-Regular.ttf */ = {isa = PBXFileReference; name = "NeverMindCompact-Regular.ttf"; path = "../src/assets/fonts/NeverMindCompact-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		70B937B5518B4355B7EC8620 /* NeverMindCompact-RegularItalic.ttf */ = {isa = PBXFileReference; name = "NeverMindCompact-RegularItalic.ttf"; path = "../src/assets/fonts/NeverMindCompact-RegularItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		FF4453AD53C4415ABDB274AB /* NeverMindCompact-Thin.ttf */ = {isa = PBXFileReference; name = "NeverMindCompact-Thin.ttf"; path = "../src/assets/fonts/NeverMindCompact-Thin.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		7A4848ECEA174D58B222FC70 /* NeverMindCompact-ThinItalic.ttf */ = {isa = PBXFileReference; name = "NeverMindCompact-ThinItalic.ttf"; path = "../src/assets/fonts/NeverMindCompact-ThinItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,6 +164,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				0559EA94CE2D4B63AE0B0E1E /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -149,6 +190,34 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		0559EA94CE2D4B63AE0B0E1E /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				28B49610D7EC42B797E0C89E /* NeverMindCompact-Bold.ttf */,
+				3B8C493D476143CDAE9D737D /* NeverMindCompact-BoldItalic.ttf */,
+				5138CBCEAA584174B19DD62E /* NeverMindCompact-Book.ttf */,
+				26D112EFD9E243EB9CF7A2DF /* NeverMindCompact-BookItalic.ttf */,
+				94D330CAB43545FE9AA8E83D /* NeverMindCompact-DemiBold.ttf */,
+				34A75C0B7CE74D4F92F752F6 /* NeverMindCompact-DemiBoldItalic.ttf */,
+				E0B8E01ADED1489E91B9753D /* NeverMindCompact-Extrabold.ttf */,
+				597722F193CB426C8C8E5535 /* NeverMindCompact-ExtraboldItalic.ttf */,
+				8E54C89C652D4916849F0B1A /* NeverMindCompact-ExtraLight.ttf */,
+				64293D5D004942B6BE11269D /* NeverMindCompact-ExtraLightItalic.ttf */,
+				A868498FDE29466F92759935 /* NeverMindCompact-Heavy.ttf */,
+				FD4E5D55F91849B996AEF906 /* NeverMindCompact-HeavyItalic.ttf */,
+				6B1592BB971040F087FD5D6A /* NeverMindCompact-Light.ttf */,
+				40CB38AF9EEE4BBD9B5C75D4 /* NeverMindCompact-LightItalic.ttf */,
+				779A57583F7240B1866D5EB4 /* NeverMindCompact-Medium.ttf */,
+				5A69B2A9B49A4F5BA0E2E6F4 /* NeverMindCompact-MediumItalic.ttf */,
+				6A91594870C24185819457EA /* NeverMindCompact-Regular.ttf */,
+				70B937B5518B4355B7EC8620 /* NeverMindCompact-RegularItalic.ttf */,
+				FF4453AD53C4415ABDB274AB /* NeverMindCompact-Thin.ttf */,
+				7A4848ECEA174D58B222FC70 /* NeverMindCompact-ThinItalic.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -245,6 +314,26 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				02E9562A3A2A4AB8898A54F7 /* NeverMindCompact-Bold.ttf in Resources */,
+				77667CB7BA194344B378F2E0 /* NeverMindCompact-BoldItalic.ttf in Resources */,
+				0B58BB5C3DE04428987C51B3 /* NeverMindCompact-Book.ttf in Resources */,
+				458DB8938768473697BE43E3 /* NeverMindCompact-BookItalic.ttf in Resources */,
+				5DDAF0E8538446D1B17FEB4B /* NeverMindCompact-DemiBold.ttf in Resources */,
+				FAE3073EF1B7476D8C7D0584 /* NeverMindCompact-DemiBoldItalic.ttf in Resources */,
+				4C32C474F24344F4BB5B6F5A /* NeverMindCompact-Extrabold.ttf in Resources */,
+				9A3AA230400B4B2D9F9B1196 /* NeverMindCompact-ExtraboldItalic.ttf in Resources */,
+				F8DCA2742AAB43D8A2DA6C06 /* NeverMindCompact-ExtraLight.ttf in Resources */,
+				FA8F8B88B259415CB682FDC9 /* NeverMindCompact-ExtraLightItalic.ttf in Resources */,
+				AE929F0FEE444FCAA0F4C2BD /* NeverMindCompact-Heavy.ttf in Resources */,
+				3CB153B9E5DC4062B2BC43FA /* NeverMindCompact-HeavyItalic.ttf in Resources */,
+				F58C44CA26E04AAE89425774 /* NeverMindCompact-Light.ttf in Resources */,
+				E9B016A63A8D4824982796E2 /* NeverMindCompact-LightItalic.ttf in Resources */,
+				80F1410F42044683B3E8B7A4 /* NeverMindCompact-Medium.ttf in Resources */,
+				1A409B47ACBD4B19BB1106F3 /* NeverMindCompact-MediumItalic.ttf in Resources */,
+				13C0D1CED6F040D59977BFCC /* NeverMindCompact-Regular.ttf in Resources */,
+				7A2A2923A0214B6D9DF36EF5 /* NeverMindCompact-RegularItalic.ttf in Resources */,
+				48B2DA0E76C042DF95A176DB /* NeverMindCompact-Thin.ttf in Resources */,
+				E3E34C2703EB41C3BE0079B1 /* NeverMindCompact-ThinItalic.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
